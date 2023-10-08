@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Blog-Platform/static/css/main.3feaad4c.css",
+    "main.js": "/Blog-Platform/static/js/main.1eae0e2d.js",
+    "static/js/787.e40a9ad8.chunk.js": "/Blog-Platform/static/js/787.e40a9ad8.chunk.js",
+    "static/media/remixicon.svg?t=1690730386070": "/Blog-Platform/static/media/remixicon.db77551b8efc76571c4f.svg",
+    "static/media/Earth.png": "/Blog-Platform/static/media/Earth.cfb3e8e27a99a83c572c.png",
+    "static/media/remixicon.eot?t=1690730386070": "/Blog-Platform/static/media/remixicon.53ec05edb4b6864b45b1.eot",
+    "static/media/remixicon.ttf?t=1690730386070": "/Blog-Platform/static/media/remixicon.4aa0fd158658e2a40e79.ttf",
+    "static/media/Earth2.jpg": "/Blog-Platform/static/media/Earth2.802ba1bf7208178ba9e9.jpg",
+    "static/media/Earth.jpg": "/Blog-Platform/static/media/Earth.f8e8cf1d0b32119140e4.jpg",
+    "static/media/remixicon.woff?t=1690730386070": "/Blog-Platform/static/media/remixicon.affd60ca37df38cfee4f.woff",
+    "static/media/bootstrap-icons.woff?": "/Blog-Platform/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
+    "static/media/remixicon.woff2?t=1690730386070": "/Blog-Platform/static/media/remixicon.821a773710130bcf4674.woff2",
+    "static/media/bootstrap-icons.woff2?": "/Blog-Platform/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
+    "static/media/panda.jpeg": "/Blog-Platform/static/media/panda.1501cc607b141f6c080a.jpeg",
+    "static/media/logo.svg": "/Blog-Platform/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Blog-Platform/index.html",
+    "main.3feaad4c.css.map": "/Blog-Platform/static/css/main.3feaad4c.css.map",
+    "main.1eae0e2d.js.map": "/Blog-Platform/static/js/main.1eae0e2d.js.map",
+    "787.e40a9ad8.chunk.js.map": "/Blog-Platform/static/js/787.e40a9ad8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3feaad4c.css",
+    "static/js/main.1eae0e2d.js"
+  ]
+}
